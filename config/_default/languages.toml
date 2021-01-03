@@ -22,9 +22,7 @@
   title = "とよた なおや"
   [hi.params]
     description = "にんげんです"
-
-    
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  [[hi.menu.main]]
+    name = "Wo"
+    url = "#about"
+    weight = 1
