@@ -20,7 +20,7 @@
   contentDir = "content/hi"
   language = "ひらがな"
   title = "とよた なおや"
-  [ja.params]
+  [hi.params]
     description = "にんげんです"
 
     
