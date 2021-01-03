@@ -3,9 +3,9 @@ title: Naoya Toyota
 role: 豊田 直哉
 bio: My research interests include Human-Computer-Intaraction
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - HCI
+  - Knowledge Management
+  - Group Wear
 social:
   - icon: envelope
     icon_pack: fas
