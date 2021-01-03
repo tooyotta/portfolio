@@ -14,6 +14,16 @@
   title = "豊田 直哉"
   [ja.params]
     description = "にんげんです"
+    
+[hi]
+  languageCode = "hi-jp"
+  contentDir = "content/hi"
+  languagr = "ひらがな"
+  title = "とよた なおや"
+  [ja.params]
+    description = "にんげんです"
+
+    
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
