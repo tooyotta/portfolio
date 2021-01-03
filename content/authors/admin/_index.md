@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Tokyo City University
-    url: https://tcu.ac.jp
+  - url: https://www.tcu.ac.jp/
+    name: Tokyo City University
 education:
   courses:
     - course: PhD in Artificial Intelligence
