@@ -1,6 +1,9 @@
 # IDEs
 .idea/
 
+# Local IDE
+academic.code-workspace
+
 # Hugo
 /resources/
 public/
