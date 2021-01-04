@@ -18,7 +18,7 @@
 [hi]
   languageCode = "hi-jp"
   contentDir = "content/hi"
-  language = "ひらがな"
+  languageName = "ひらがな"
   title = "とよた なおや"
   [hi.params]
     description = "にんげんです"
