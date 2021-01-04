@@ -5,12 +5,13 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"
+  title = "Naoya Toyota"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
 [ja]
   languageCode = "ja-jp"
-  contentDir = "content/jp"
+  contentDir = "content/ja"
   title = "豊田 直哉"
   [ja.params]
     description = "にんげんです"
@@ -22,7 +23,4 @@
   title = "とよた なおや"
   [hi.params]
     description = "にんげんです"
-  [[hi.menu.main]]
-    name = "Wo"
-    url = "#about"
-    weight = 1
+

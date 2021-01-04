@@ -1,31 +1,31 @@
 - id: toggle_navigation
-  translation: ナビゲーションの切り替え
+  translation: 'ナビゲーションのきりかえ'
 - id: table_of_contents
-  translation: 目次
+  translation: 'もくじ'
 - id: on_this_page
   translation: On this page
 - id: back_to_top
   translation: Back to top
 - id: related
-  translation: 関連項目
+  translation: 'かんれんこうもく'
 - id: minute_read
-  translation: 分で読める
+  translation: ふんでよめる
 - id: previous
-  translation: 前へ
+  translation: まえへ
 - id: next
-  translation: 次へ
+  translation: つぎへ
 - id: figure
-  translation: '図 %d:'
+  translation: 'ず %d:'
 - id: btn_preprint
   translation: プレプリント
 - id: btn_pdf
   translation: PDF
 - id: btn_cite
-  translation: 引用
+  translation: いんよう
 - id: btn_slides
   translation: スライド
 - id: btn_video
-  translation: 動画
+  translation: どうが
 - id: btn_code
   translation: コード
 - id: btn_dataset
@@ -41,9 +41,9 @@
 - id: btn_download
   translation: ダウンロード
 - id: interests
-  translation: 興味・関心
+  translation: きょうみ・かんしん
 - id: education
-  translation: 学歴
+  translation: がくれき
 - id: user_profile_latest
   translation: Latest
 - id: see_certificate
@@ -53,11 +53,11 @@
 - id: more_pages
   translation: See all
 - id: more_posts
-  translation: 投稿一覧
+  translation: とうこういちらん
 - id: more_talks
-  translation: 登壇一覧
+  translation: とうだんいちらん
 - id: more_publications
-  translation: 発表文献一覧
+  translation: はっぴょうぶんけんいちらん
 - id: contact_name
   translation: Name
 - id: contact_email
@@ -69,19 +69,19 @@
 - id: book_appointment
   translation: Book an appointment
 - id: abstract
-  translation: 概要
+  translation: がいよう
 - id: publication
-  translation: 収録
+  translation: しゅうろく
 - id: publication_type
   translation: タイプ
 - id: date
-  translation: 日付
+  translation: ひづけ
 - id: last_updated
-  translation: 最終更新
+  translation: さいしゅうこうしん
 - id: event
   translation: イベント
 - id: location
-  translation: 場所
+  translation: ばしょ
 - id: pub_uncat
   translation: Uncategorized
 - id: pub_conf
@@ -103,28 +103,28 @@
 - id: open_project_site
   translation: プロジェクトのサイトへ
 - id: posts
-  translation: 投稿
+  translation: とうこう
 - id: publications
-  translation: 発表文献
+  translation: はっぴょうぶんけん
 - id: talks
-  translation: 登壇
+  translation: とうだん
 - id: projects
   translation: プロジェクト
 - id: search
   translation: Search
 - id: search_placeholder
-  translation: 検索...
+  translation: けんさく...
 - id: search_results
   translation: results found
 - id: search_no_results
-  translation: 結果が見つかりませんでした
+  translation: けっかがみつかりませんでした
 - id: page_not_found
-  translation: ページが見つかりませんでした
+  translation: ページがみつかりませんでした
 - id: 404_recommendations
-  translation: あなたが探しているものはこれらの中にあるかもしれません
+  translation: あなたがさがしているものはこれらのなかにあるかもしれません
 - id: cookie_message
-  translation: このウェブサイトはあなたが最高の体験を得るためにクッキーを使用します。
+  translation: このウェブサイトはあなたがさいこうのたいけんをえるためにクッキーをしようします。
 - id: cookie_dismiss
   translation: はい
 - id: cookie_learn
-  translation: 詳細を見る
+  translation: しょうさいをみる
