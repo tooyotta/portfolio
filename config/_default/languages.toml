@@ -14,7 +14,7 @@
   contentDir = "content/ja"
   title = "豊田 直哉"
   [ja.params]
-    description = "にんげんです"
+    description = "人間です"
     
 [hi]
   languageCode = "hi-jp"

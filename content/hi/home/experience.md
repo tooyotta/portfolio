@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: けいれき
 subtitle:
 
 # Date format for experience
@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: 学士課程
+    company: 東京都市大学
+    company_url: 'https://www.tcu.ac.jp'
+    location: 東京
+    date_start: '2017-04-01'
+    date_end: '2021-03-01'
     description: |2-
         Responsibilities include:
         
