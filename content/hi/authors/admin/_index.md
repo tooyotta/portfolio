@@ -5,7 +5,8 @@ bio: しがない にんげんです。
 interests:
   - ヒューマン・コンピュータ・インタラクション
   - ちしきかがく
-  - わ
+  - グループウェア
+  - にほんご ひらがな わかちがき
 social:
   - icon: envelope
     icon_pack: fas
