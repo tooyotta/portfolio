@@ -5,7 +5,7 @@ bio: My research interests include Human-Computer-Intaraction
 interests:
   - HCI
   - Knowledge Management
-  - Group Wear
+  - Groupwear
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,10 +33,13 @@ social:
     icon: medium
     link: https://medium.com/@tooyotta
 organizations:
-  - url: https://www.tcu.ac.jp/
-    name: Tokyo City University
+  - url: https://informatics.tsukuba.ac.jp/?lang=en
+    name: Graduate programs of informatics, University of Tsukuba
 education:
   courses:
+    - course: Master's program in informatics
+      institution: University of Tsukuba
+      year: current
     - course: BS in Environmental Management
       institution: Tokyo City University
       year: 2021
@@ -47,6 +50,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a man. Just a man. I wanna be a human.
+I am just a man, ordinary human.<br>
+I'm master's program student in informatics.
 
+<!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->

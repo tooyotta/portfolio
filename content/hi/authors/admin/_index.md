@@ -1,7 +1,7 @@
 ---
 title: とよた なおや
 role: 豊田 直哉
-bio: ぼくはにんげんです。ただのにんげんです。にんげんになりたいです。
+bio: しがない にんげんです。
 interests:
   - ヒューマン・コンピュータ・インタラクション
   - ちしきかがく
@@ -33,23 +33,29 @@ social:
     icon: medium
     link: https://medium.com/@tooyotta
 organizations:
-  - url: https://www.tcu.ac.jp/
-    name: とうきょうとしだいがく
+  - url: https://www.tsukuba.ac.jp/
+    name: つくばだいがく だいがくいん しゅうしかてい
 education:
   courses:
-    - course: かんきょうがくぶ
-      institution: とうきょうとしだいがく
+    - course: つくばだいがく だいがくいん
+      institution: じょうほうがくがくいプログラム
+      year: ざいがくちゅう  
+    - course: とうきょうとしだいがく
+      institution: かんきょうがくぶ
       year: 2021
-    - institution: ながのけんまつもとあがたがおかこうとうがっこう
+    - institution: ふつうか
       year: 2015
-      course: ふつうか
-    - course: 
-      institution: しんしゅうだいがくきょういくがくぶふぞくまつもとちゅうがっこう
+      course: ながのけんまつもとあがたがおかこうとうがっこう
+    - course: しんしゅうだいがくきょういくがくぶふぞくまつもとちゅうがっこう
+      institution: 
       year: 2012
 email: ""
 superuser: true
 highlight_name: false
 ---
-ぼくはにんげんです。ただのにんげんです。にんげんになりたいです。
-
+しがない にんげんです。<br>
+せんもんは じょうほうがく。<br>
+しゅみは とざんとスキーととほりょこう。
+<!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
