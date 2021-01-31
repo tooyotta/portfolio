@@ -34,7 +34,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2018-03-01"
-  description: 「私をスキーに連れてって」に憧れて取得。スキーや登山などで重宝している他、災害時の非常通信手段としても。
+  description: 「私をスキーに連れてって」に憧れて取得。スキーや登山などで重宝している他、災害時の非常通信手段としても。コールサインはJJ1XZH。
   organization: 総務省
   organization_url: https://www.soumu.go.jp/
   title: 第４級アマチュア無線技士

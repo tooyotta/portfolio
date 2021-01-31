@@ -33,29 +33,29 @@ social:
     icon: medium
     link: https://medium.com/@tooyotta
 organizations:
-  - url: https://www.tcu.ac.jp/
-    name: 東京都市大学
+  - url: https://www.tsukuba.ac.jp/
+    name: 筑波大学大学院 修士課程
 education:
   courses:
-    - course: 環境学部
-      institution: 東京都市大学
+    - course: 筑波大学大学院
+      institution: 情報学学位プログラム 博士前期課程
+      year: 在学中
+    - course: 東京都市大学
+      institution: 環境学部
       year: 2021
-    - institution: 長野県松本県ヶ丘高等学校
+    - institution:
       year: 2015
-      course: 普通科
-    - course: ただの生徒
-      institution: 信州大学教育学部附属松本中学校
+      course: 長野県松本県ヶ丘高等学校
+    - course: 信州大学教育学部附属松本中学校
+      institution: 
       year: 2012
 email: ""
 superuser: true
 highlight_name: false
 ---
-僕は人間です。ただの人間です。人間になりたいです。
-
+しがない人間です。<br>
+専門は情報学。<br>
 趣味は登山・スキー・徒歩旅行
-<br><br>
-<small>You can change the language from the navigation above.<br/>
-上部のナビゲーションから言語を「ひらがな」に変更できます。</small>
-
-
+<!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
