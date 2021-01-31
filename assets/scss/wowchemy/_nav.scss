@@ -255,6 +255,7 @@
 .undernav {
     text-align: center;
     font-size: small;
-    background-color: $sta-dark-menu-primary !important;
-    color: $sta-dark-menu-text !important;
+    background-color: $sta-dark-menu-primary;
+    color: $sta-dark-menu-text;
+    margin-top: 10px;
 }
