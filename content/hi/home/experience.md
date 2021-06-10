@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 経歴
+title: けいれき
 subtitle:
 
 # Date format for experience
