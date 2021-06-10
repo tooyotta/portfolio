@@ -10,8 +10,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'しかくと じゅしょう'
-subtitle:
+title: 'しかくとか'
+subtitle: '資格と受賞'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
