@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-03-14"
   description: "じんこうちのうりょういきの きそてきな しかくです。はやっていたので しゅとくしてみました。めざすは Eけんてい。"
   organization: いっぱんしゃだんほうじんにほんディープラーニングきょうかい
   organization_url: https://www.jdla.org/

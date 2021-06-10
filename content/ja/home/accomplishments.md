@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-03-14"
   description: "人工知能領域の基礎的な資格です。流行っていたので取得してみました。目指すはE検定。"
   organization: 一般社団法人日本ディープラーニング協会
   organization_url: https://www.jdla.org/
