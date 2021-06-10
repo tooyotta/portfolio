@@ -1,6 +1,6 @@
 ---
 title: 東京都市大学新聞会
-summary: 学生新聞の立ち上げ・web制作・グループウェア導入
+summary: 大学と社会を結ぶプラットファームとして学生新聞を運営した。<br>部員数2人の学生新聞部を50人を超える組織に発展させ、webサイト制作、記事作成、組織マネジメント等を行った。
 tags:
 - proper
 date: "2016-04-27T00:00:00Z"
@@ -21,6 +21,8 @@ links:
   icon_pack: 
   name: 東京都市大学新聞webサイト
   url: https://tcuprs.com
+- name: 関連記事(学内広報誌)
+  url: tcucom-tcuprs.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,5 +35,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-
-学生新聞の立ち上げ・web制作・グループウェア導入を担った。

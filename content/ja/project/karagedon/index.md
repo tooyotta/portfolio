@@ -1,12 +1,12 @@
 ---
 title: 都市大専用SNS「からあげドン」
-summary: マストドンインスタンスの設置・運営 <br> Oracle Cloudでシュッと動かしてます
+summary: コロナ禍における大学生の孤独を解決するためのオンライン交流空間として、マストドンインスタンスを設置・運営 
 tags:
 - proper
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://karagedon.com"
+external_link: "https://karagedon.com/about/more"
 
 image:
   caption: 
@@ -16,7 +16,7 @@ links:
 - icon: 
   icon_pack: 
   name: からあげドン
-  url: https://karagedon.com
+  url: https://karagedon.com/about/more
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,5 +29,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-
-学生新聞の立ち上げ・web制作・グループウェア導入を担った。

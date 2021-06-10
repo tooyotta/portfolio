@@ -1,6 +1,6 @@
 ---
 title: とうきょうとしだいがくしんぶんかい
-summary: がくせいしんぶんのたちあげ・webせいさく・グループウェアどうにゅう
+summary: だいがくと しゃかいをむすぶ プラットファームとしてがくせいしんぶんを うんえいした。<br>ぶいんすう2人のがくせいしんぶんぶを 50人をこえるそしきに はってんさせ、webサイトせいさく、きじさくせい、そしきマネジメントとうを おこなった。
 tags:
 - proper
 date: "2016-04-27T00:00:00Z"
@@ -21,6 +21,8 @@ links:
   icon_pack: 
   name: とうきょうとしだいがくしんぶんwebサイト
   url: https://tcuprs.com
+- name: かんれんきじ(がくないこうほうし)
+  url: tcucom-tcuprs.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,5 +35,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-
-学生新聞の立ち上げ・web制作・グループウェア導入を担った。

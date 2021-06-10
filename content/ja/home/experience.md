@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 博士前期課程
+    company: 筑波大学大学院
+    company_url: 'https://informatics.tsukuba.ac.jp/'
+    location: 茨城県 つくば市
+    date_start: '2021-04-01'
+    date_end: '2023-03-01'
+    description: |2-
+        インタラクション研究室所属。情報技術を用いて人間の知的活動を支援することが私の研究的関心領域です。具体的には、リモート会議等における遠隔コミュニケーション内容を分析する研究を進めています。ちなみに、私の正式な所属名は「人間総合科学学術院 人間総合科学研究群 情報学学位プログラム 博士前期課程」と、とてつもなく長いのです。 筑波大学には「博士号」という名のアヒルボートがあるのですが、来世で油田王になったら博士号取得を目指したいですね。現世では、目指せ社会人ドクター...。
   - title: 学士課程
     company: 東京都市大学
     company_url: 'https://www.tcu.ac.jp'

@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2018-10-01"
-  description: "流行っていたから受験してみたけど案外難易度が低かった。履歴書に書けるような資格というよりもディープラーニングの初学者向け教材として価値がある検定だと思います。"
+  description: "じんこうちのうりょういきの きそてきな しかくです。はやっていたので しゅとくしてみました。めざすは Eけんてい。"
   organization: いっぱんしゃだんほうじんにほんディープラーニングきょうかい
   organization_url: https://www.jdla.org/
   title: Gけんてい
@@ -34,10 +34,44 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2018-03-01"
-  description: 「私をスキーに連れてって」に憧れて取得。スキーや登山などで重宝している他、災害時の非常通信手段としても。コールサインはJJ1XZH。
+  description: 「わたしをスキーにつれてって」にあこがれてしゅとく。スキーやとざんなどでちょうほうしているほか、さいがいじのひじょうつうしんしゅだんとしても。コールサインはJJ1XZH。
   organization: そうむしょう
   organization_url: https://www.soumu.go.jp/
   title: だい４きゅうアマチュアむせんぎし
   url: 
-
+- certificate_url: 
+  date_start: "2021-03-20"
+  description: チームメンバーにめぐまれすぎたおかげでハッカソンでにゅうしょうしてしまう。
+  organization: かぶしきがいしゃサポーターズ
+  organization_url: https://note.com/geek_pjt/n/nc6e2bcaa959e
+  title: どりょくしょう
+  url: 
+- certificate_url: 
+  date_start: "2021-03-19"
+  description: だいがくを じせきでしょつぎょうにつき りじちょうしょうじゅしょう。
+  organization: とうきょうとしだいがく・がっこうほうじんごとういくえいかい
+  organization_url: https://twitter.com/tooyotta/status/1372936665048608773
+  title: りじちょうしょう
+  url: 
+- certificate_url: 
+  date_start: "2020-07-01"
+  description: しゃかいにゆうようなじんざい およびちいきのはってんに こうけんするじんざいへの しょうがくきんきゅうひ
+  organization: おかべじゅんわしょうがくざいだん
+  organization_url: 
+  title: おかべじゅんわしょうがくきん さいたく
+  url: 
+- certificate_url: 
+  date_start: "2019-06-01"
+  description: せいせき1いにつき がくちょうより 2ねんれんぞくで ひょうしょう。
+  organization: とうきょうとしだいがく・がっこうほうじんごとういくえいかい
+  organization_url: https://www.tcu.ac.jp/tcucms/wp-content/uploads/2019/07/20190710-5d254e1e562b5.pdf
+  title: ごとういくえいききんしょうがくきん さいたく
+  url: 
+- certificate_url: 
+  date_start: "2018-05-01"
+  description: せいせき1いにつき がくちょうより ひょうしょう。
+  organization: とうきょうとしだいがく・がっこうほうじんごとういくえいかい
+  organization_url: 
+  title: ごとういくえいききんしょうがくきん さいたく
+  url: 
 ---
