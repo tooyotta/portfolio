@@ -33,13 +33,19 @@ status = 301
 force = false
 
 [[redirects]]
-from = "/directbridge"
+from = "/bizcon-pdf"
 to = "/ja/project/directbridge/directbridge.pdf"
 status = 301
 force = false
 
 [[redirects]]
+from = "/bizcon-article"
+to = "https://mainichi.jp/univ/articles/20200128/org/00m/100/011000c"
+status = 301
+force = false
+
+[[redirects]]
 from = "/tetractane"
-to = "https://docs.google.com/presentation/d/1Z_OITKvkLPaqZffnVJ9PB33lXlRuV_VsDyxj0wNYYeY/edit#slide=id.gc93c1fd92e_7_6433"
+to = "https://docs.google.com/presentation/d/1Z_OITKvkLPaqZffnVJ9PB33lXlRuV_VsDyxj0wNYYeY"
 status = 301
 force = false
