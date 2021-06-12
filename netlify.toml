@@ -24,3 +24,22 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+#Redirects
+[[redirects]]
+from = "/cisc-risc"
+to = "https://medium.dotsarc.com/世の中には2種類のcpuがある-ciscとriscだ-a9a69d5d9275"
+status = 301
+force = false
+
+[[redirects]]
+from = "/directbridge"
+to = "/ja/project/directbridge/directbridge.pdf"
+status = 301
+force = false
+
+[[redirects]]
+from = "/tetractane"
+to = "https://docs.google.com/presentation/d/1Z_OITKvkLPaqZffnVJ9PB33lXlRuV_VsDyxj0wNYYeY/edit#slide=id.gc93c1fd92e_7_6433"
+status = 301
+force = false
