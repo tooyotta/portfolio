@@ -1,7 +1,7 @@
 ---
 title: 豊田 直哉
 role: Naoya Toyota
-bio: 僕は人間です。ただの人間です。人間になりたいです。
+bio: just a man
 interests:
   - ヒューマン・コンピュータ・インタラクション(HCI)
   - 知識科学
@@ -34,14 +34,14 @@ social:
     link: https://medium.com/@tooyotta
 organizations:
   - url: https://www.tsukuba.ac.jp/
-    name: 筑波大学大学院 修士課程
+    name: 筑波大学大学院 博士前期課程
 education:
   courses:
     - course: 筑波大学大学院
       institution: 情報学学位プログラム 博士前期課程
       year: 在学中
     - course: 東京都市大学
-      institution: 環境学部
+      institution: 環境学部 情報マネジメント研究室
       year: 2021
     - institution:
       year: 2015
@@ -53,7 +53,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-しがない人間です。<br>
+しがない人間です。善良市民。<br>
 専門は情報学。<br>
 趣味は登山・スキー・徒歩旅行
 <!--

@@ -1,9 +1,9 @@
 ---
 title: Naoya Toyota
 role: 豊田 直哉
-bio: My research interests include Human-Computer-Intaraction
+bio: Master's student in informatics.
 interests:
-  - HCI
+  - Human-computer interaction
   - Knowledge Management
   - Groupwear
 social:
@@ -38,10 +38,10 @@ organizations:
 education:
   courses:
     - course: Master's program in informatics
-      institution: University of Tsukuba
+      institution: University of Tsukuba, Japan
       year: current
-    - course: BS in Environmental Management
-      institution: Tokyo City University
+    - course: BS, Information management
+      institution: Tokyo City University, Japan
       year: 2021
     - institution: Matsumoto Agatagaoka High School, Japan
       year: 2015

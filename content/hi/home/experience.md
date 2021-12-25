@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+experience:
+  - title: インターン
+    company: ラインかぶしきがいしゃ
+    company_url: 'https://linecorp.com/'
+    location: とうきょうと しんじゅくく
+    date_start: '2021-08-16'
+    description: |2-
+        みどいろの チャットアプリやさん。ラインというと ドイツの ラインがわを れんそうしますね。プラットフォーマーに なるには たいがのなまえを かんする ひつようが あるのでしょうか (e.g. アマゾンがわ)。
   - title: はくしぜんきかてい
     company: つくばだいがくだいがくいん<br>にんげんそうごうかがくがくじゅついん にんげんそうごうかがくけんきゅうぐん じょうほうがくがくいプログラム
     company_url: 'https://informatics.tsukuba.ac.jp/'
     location: いばらきけん つくばし
     date_start: '2021-04-01'
-    date_end: '2023-03-01'
     description: |2-
         とてつもなく長い所属名ですが<b>要するに「情報学専攻の修士学生」</b>という意味です。インタラクション研究室に所属し、情報技術を用いて人間の知的活動を支援することが私の研究的関心領域です。具体的には、リモート会議等における遠隔コミュニケーション内容を分析する研究を進めています。筑波大学には「博士号」という名のアヒルボートがあるのですが、来世で油田王になったら博士号取得を目指したいですね。現世では、目指せ社会人ドクター...。
   - title: がくしかてい

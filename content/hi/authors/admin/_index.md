@@ -42,7 +42,7 @@ education:
       institution: じょうほうがくがくいプログラム
       year: ざいがくちゅう  
     - course: とうきょうとしだいがく
-      institution: かんきょうがくぶ
+      institution: かんきょうがくぶ じょうほうマネジメントけんきゅうしつ
       year: 2021
     - institution: ふつうか
       year: 2015

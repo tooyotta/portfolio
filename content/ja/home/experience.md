@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: インターン
+    company: LINE株式会社
+    company_url: 'https://linecorp.com/'
+    location: 東京都 新宿区
+    date_start: '2021-08-16'
+    description: |2-
+        緑色のチャットアプリ屋さん。ラインというとドイツのライン川を連想しますね。プラットフォーマーになるには大河の名前を関する必要があるのでしょうか (e.g. アマゾン川)。
   - title: 博士前期課程
     company: 筑波大学大学院<br> 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム
     company_url: 'https://informatics.tsukuba.ac.jp/'
