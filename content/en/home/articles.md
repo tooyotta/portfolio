@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: articles
-subtitle: 'these are written in Japanese'
+subtitle: 'written in Japanese'
 
 content:
   # Page type to display. E.g. project.

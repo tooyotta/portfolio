@@ -5,7 +5,7 @@ bio: Master's student in informatics.
 interests:
   - Human-computer interaction
   - Knowledge Management
-  - Groupwear
+  - CSCW
 social:
   - icon: envelope
     icon_pack: fas
@@ -50,8 +50,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am just a man, ordinary human.<br>
-I'm master's program student in informatics.
+just a man, ordinary human<br>
+master's program student in informatics<br>
+work for LINE Corp. as an intern
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
